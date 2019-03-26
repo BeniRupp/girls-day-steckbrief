@@ -9,6 +9,16 @@
   - zum Beispiel: [Firefox](https://www.mozilla.org/de/firefox/new/) oder [Chrome](https://www.google.com/intl/de/chrome/)
 
 
+## Wie starte ich? 👩‍💻
+
+1. Erstelle eine Kopie von diesem Projekt für deinen GitHub Account.
+- klicke dazu auf "[Fork](https://help.github.com/en/articles/fork-a-repo)" auf der der Startseite
+- speichere den "Fork" für deinen Account
+2. gitb deinem Projekt einen eigenen Namen, um eine Website ([GitHub Pages](https://pages.github.com/)) daraus zu machen.
+- gehe zu deiner Version des Projekts (Fork)
+- klicke auf "Settings" und benenne das Projekt um in `<username>.github.io`, wobei `<username>` dein Benutzername deines GitHub Accounts ist (z.B. BeniRupp)
+
+
 
 ## Wo findest du Hilfe? 🎓
 
